@@ -1,0 +1,70 @@
+"","X","year","subcounty","crop","crop_type","fsize.Ha","quantity.MT","value.Kshs","total_population"
+"1",69,2017,"Kaiti","Beans","food crop",5390,9702,415740,116010
+"2",70,2017,"Kaiti","Maize","food crop",13100,29475,670672,116010
+"3",71,2017,"Kibwezi East","Beans","food crop",665,340,5703,142933
+"4",72,2017,"Kibwezi East","Cowpeas","food crop",14350,14950,154074,142933
+"5",73,2017,"Kibwezi East","Green Grams","food crop",15420,12970,667000,142933
+"6",74,2017,"Kibwezi East","Maize","food crop",18160,8200,155346,142933
+"7",75,2017,"Kibwezi East","Pigeon peas","food crop",13456,19786,658378,142933
+"8",76,2017,"Kibwezi East","Sorghum","food crop",1895,940,20727,142933
+"9",77,2017,"Kibwezi West","Beans","food crop",1760,2022,31256,203102
+"10",78,2017,"Kibwezi West","Cowpeas","food crop",20453,15467,184569,203102
+"11",79,2017,"Kibwezi West","Green Grams","food crop",21650,15456,793645,203102
+"12",80,2017,"Kibwezi West","Maize","food crop",28780,21450,498789,203102
+"13",81,2017,"Kibwezi West","Pigeon peas","food crop",22546,20050,675000,203102
+"14",82,2017,"Kibwezi West","Sorghum","food crop",3410,4535,115170,203102
+"15",83,2017,"Kilome","Beans","food crop",7150,8391,321000,102897
+"16",84,2017,"Kilome","Cowpeas","food crop",1802,1679,27051,102897
+"17",85,2017,"Kilome","Green Grams","food crop",1402,978,56758,102897
+"18",86,2017,"Kilome","Maize","food crop",16324,23450,698000,102897
+"19",87,2017,"Kilome","Millet","food crop",8,6,460,102897
+"20",88,2017,"Kilome","Pigeon peas","food crop",8465,9121,343544,102897
+"21",89,2017,"Kilome","Sorghum","food crop",44,59,2104,102897
+"22",90,2017,"Makueni","Beans","food crop",4435,5501,230285,203560
+"23",91,2017,"Makueni","Cowpeas","food crop",17200,18800,358909,203560
+"24",92,2017,"Makueni","Green Grams","food crop",23453,14651,919753,203560
+"25",93,2017,"Makueni","Maize","food crop",31450,42560,978271,203560
+"26",94,2017,"Makueni","Pigeon peas","food crop",25500,20750,798000,203560
+"27",95,2017,"Makueni","Sorghum","food crop",3210,3601,112180,203560
+"28",96,2017,"Mbooni","Beans","food crop",8335,7745,280379,181046
+"29",97,2017,"Mbooni","Cowpeas","food crop",4095,3645,77157,181046
+"30",98,2017,"Mbooni","Green Grams","food crop",3820,2701,116453,181046
+"31",99,2017,"Mbooni","Maize","food crop",23105,33565,1593839,181046
+"32",100,2017,"Mbooni","Millet","food crop",41,23,710,181046
+"33",101,2017,"Mbooni","Pigeon peas","food crop",4135,2791,79011,181046
+"34",102,2017,"Mbooni","Sorghum","food crop",764,1130,24345,181046
+"35",174,2017,"Kaiti","Pigeon peas","food crop",NA,366,19477,116010
+"36",182,2017,"Kibwezi East","B.Millet","food crop",NA,72,5321,142933
+"37",183,2017,"Kibwezi West","B.Millet","food crop",NA,147,11870,203102
+"38",184,2017,"Makueni","B.Millet","food crop",NA,280,5803,203560
+"39",249,2017,"Kaiti","Avocado","Horticultural crops",38,970,33642,116010
+"40",250,2017,"Kaiti","Kales","Horticultural crops",23,978,24223,116010
+"41",251,2017,"Kaiti","Macadamia","Horticultural crops",37,1068,158685,116010
+"42",252,2017,"Kaiti","Mangoes","Horticultural crops",1961,20018,297498,116010
+"43",253,2017,"Kaiti","Tomatoes","Horticultural crops",24,708,29445,116010
+"44",254,2017,"Kibwezi East","Kales","Horticultural crops",76,2753,68616,142933
+"45",255,2017,"Kibwezi East","Mangoes","Horticultural crops",4504,45037,673481,142933
+"46",256,2017,"Kibwezi East","Tomatoes","Horticultural crops",115,2855,124140,142933
+"47",257,2017,"Kibwezi East","Water Melon","Horticultural crops",137,7027,154118,142933
+"48",258,2017,"Kibwezi West","Kales","Horticultural crops",242,9931,220940,203102
+"49",259,2017,"Kibwezi West","Mangoes","Horticultural crops",8439,83448,1265828,203102
+"50",260,2017,"Kibwezi West","Tomatoes","Horticultural crops",212,6978,303453,203102
+"51",261,2017,"Kibwezi West","Water Melon","Horticultural crops",199,10011,222720,203102
+"52",262,2017,"Kilome","Avocado","Horticultural crops",19,420,14553,102897
+"53",263,2017,"Kilome","Kales","Horticultural crops",57,2098,62372,102897
+"54",264,2017,"Kilome","Macadamia","Horticultural crops",33,961,142874,102897
+"55",265,2017,"Kilome","Mangoes","Horticultural crops",2237,22838,339417,102897
+"56",266,2017,"Kilome","Tomatoes","Horticultural crops",30,1185,50955,102897
+"57",267,2017,"Kilome","Water Melon","Horticultural crops",21,907,19764,102897
+"58",268,2017,"Makueni","Kales","Horticultural crops",217,6715,169764,203560
+"59",269,2017,"Makueni","Mangoes","Horticultural crops",10206,100918,1530837,203560
+"60",270,2017,"Makueni","Tomatoes","Horticultural crops",231,6623,288005,203560
+"61",271,2017,"Makueni","Water Melon","Horticultural crops",28,683,15200,203560
+"62",272,2017,"Mbooni","Avocado","Horticultural crops",40,966,33716,181046
+"63",273,2017,"Mbooni","Kales","Horticultural crops",176,6673,166311,181046
+"64",274,2017,"Mbooni","Macadamia","Horticultural crops",31,991,148151,181046
+"65",275,2017,"Mbooni","Mangoes","Horticultural crops",5589,55893,835819,181046
+"66",276,2017,"Mbooni","Tomatoes","Horticultural crops",117,4337,98590,181046
+"67",277,2017,"Mbooni","Water Melon","Horticultural crops",37,1326,29086,181046
+"68",340,2017,"Kaiti","Water Melon","Horticultural crops",NA,541,11786,116010
+"69",341,2017,"Makueni","Citrous Fruits","Horticultural crops",NA,38963,974087,203560
